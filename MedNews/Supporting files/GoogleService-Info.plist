@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1072986067379-qhqbh47i3hpdc70n1v749pntq09hg7ui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1072986067379-qhqbh47i3hpdc70n1v749pntq09hg7ui</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCM-Se7lZ6AG5ix6REgSzF_h5imWFmqan4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1072986067379</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.savkaostap.MedNews</string>
+	<key>PROJECT_ID</key>
+	<string>mednews-7cfff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mednews-7cfff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1072986067379:ios:531d5ff4738b32f5c0fbc6</string>
+	<key>DATABASE_URL</key>
+	<string>https://mednews-7cfff.firebaseio.com</string>
+</dict>
+</plist>
